@@ -1,4 +1,4 @@
 MGPreferencePanel
 =================
 
-Mac OS X Preference Window the lazy an simple way
+Mac OS X Preferences window the lazy and very simple way
