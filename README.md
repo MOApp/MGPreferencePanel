@@ -8,7 +8,7 @@ You may want to use own XIB and NSWindowController instead.**
 
 There is nothing more annoying than programming a preference-window with selectable toolbar-buttons and automatic resizing.
 
-Most of the solutions you find today are either close to the one programmed by Matt Ball or base on it. Indeed, there are even more complicated ways, doing it.
+Most of the solutions you find today are either close to the one programmed by Matt Ball or based on it. Indeed, there are even more complicated ways doing it.
 
 They are all more or less understandable and customizable. But all have in common that it is annoying and time consuming to add each single subview via a separate nib-file or a separate plists. I know some disagree but I believe that more nibs aren‘t always the best solution. Because more nibs lead to more controller, that leads to more work customizing them, that leads to a more enraged programmer.
 
