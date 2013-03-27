@@ -14,7 +14,7 @@ They are all more or less understandable and customizable. But all have in commo
 
 This is why I programmed my own solution.
 
-Sure, it is far from being perfect, but you have customized everything in less than thirty two seconds!
+Sure, it is far from being perfect, but you have customized everything in less than thirty …ah… two seconds!
 
 You can use it as an inspector-view as well. Best of all: just one nib.
 
