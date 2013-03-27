@@ -15,7 +15,7 @@
 #import "MGPreferencePanel.h"
 
 	// All you have to do is to edit the titles and images
-    // You may want to use own XIB and NSWindowController instead
+    	// You may want to use own XIB and NSWindowController instead
 
 NSString * const AppTitle = @"My Awesome App";
 
