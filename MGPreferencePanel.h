@@ -1,12 +1,12 @@
-    //
-	  //  MGPreferencePanel.h
-	  //  MGPreferencePanel
-	  //
-	  //  Edited by Michael on 03/27/12.
-	  //  Copyleft 2003-2013 MOApp Software Manufactory.
-	  //
-    // License?
-    // Do What The Fuck You Want To Public License, Version 2.
+	//
+	//  MGPreferencePanel.h
+	//  MGPreferencePanel
+	//
+	//  Edited by Michael on 03/27/12.
+	//  Copyleft 2003-2013 MOApp Software Manufactory.
+	//
+	// License?
+	// Do What The Fuck You Want To Public License, Version 2.
 
 
 #import <Cocoa/Cocoa.h>
